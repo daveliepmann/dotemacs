@@ -24,7 +24,6 @@
 (use-package ag)
 (use-package aggressive-indent)
 (use-package all-the-icons)
-(use-package bundler)
 (use-package caml)
 
 ;; clojure stuff
@@ -97,4 +96,4 @@
 (use-package yaml-mode)
 (use-package yasnippet)
 
-;;'(ido-grid-mode lsp-mode yaml-mode which-key web-mode visual-regexp uuid use-package undo-fu typo tuareg swift-mode smex smartparens slime-company simple-httpd rustic robe restclient rainbow-mode pretty-symbols pkg-info paren-face paredit ox-reveal magit julia-mode json-mode indium ido-completing-read+ htmlize highlight haskell-mode haml-mode geiser-racket geiser-kawa geiser-chez fringe-helper flymake-ruby flymake-cursor find-file-in-project expand-region elisp-slime-nav doom-themes doom-modeline diminish company-pollen company-inf-ruby company-go cider-eval-sexp-fu cider cargo bundler atomic-chrome aggressive-indent ag ace-jump-mode ac-geiser)
+;;'(ido-grid-mode lsp-mode yaml-mode which-key web-mode visual-regexp uuid use-package undo-fu typo tuareg swift-mode smex smartparens slime-company simple-httpd rustic robe restclient rainbow-mode pretty-symbols pkg-info paren-face paredit ox-reveal magit julia-mode json-mode indium ido-completing-read+ htmlize highlight haskell-mode haml-mode geiser-racket geiser-kawa geiser-chez fringe-helper flymake-ruby flymake-cursor find-file-in-project expand-region elisp-slime-nav doom-themes doom-modeline diminish company-pollen company-inf-ruby company-go cider-eval-sexp-fu cider cargo atomic-chrome aggressive-indent ag ace-jump-mode ac-geiser)
